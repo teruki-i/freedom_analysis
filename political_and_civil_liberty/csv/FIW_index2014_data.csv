@@ -1,4 +1,4 @@
-Country/Territory,Region,C/T?,Edition,Status,PR_Rating,CL_Rating,A,B,C,Add_Q,Add_A,PR,D,E,F,G,CL,Total
+Country/Territory,Region,C/T?,Edition,Status2014,PR_Rating,CL_Rating,A,B,C,Add_Q,Add_A,PR,D,E,F,G,CL,Score2014
 Abkhazia,Eurasia,t,2014,PF,4,5,7,7,4,0,0.0,18,8,5,4,5,22,40
 Afghanistan,Asia,c,2014,NF,6,6,3,6,2,0,0.0,11,6,4,2,3,15,26
 Albania,Europe,c,2014,PF,3,3,8,13,6,0,0.0,27,13,9,9,9,40,67
