@@ -1,5 +1,6 @@
 # ignore these files
 config.py
+iframe_figures
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
